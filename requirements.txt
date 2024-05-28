@@ -6,3 +6,4 @@ marshmallow==3.21.2
 packaging==24.0
 python-dotenv==1.0.1
 sqlparse==0.5.0
+myssqlclient==2.2.4
